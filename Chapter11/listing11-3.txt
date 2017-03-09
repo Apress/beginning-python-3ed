@@ -1,0 +1,3 @@
+Welcome to this file
+There is nothing here except
+This stupid haiku
